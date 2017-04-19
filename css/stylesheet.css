@@ -9,8 +9,27 @@
   font-weight: bolder;
 }
 
-.this{
+.this1{
   text-align: justify;
   color:purple;
   font-style: italic;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: red;
+}
+.this2{
+  text-align: justify;
+  color:purple;
+  font-style: italic;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: blue;
+}
+.this3{
+  text-align: justify;
+  color:purple;
+  font-style: italic;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: green;
 }
