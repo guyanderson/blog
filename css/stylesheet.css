@@ -1,0 +1,16 @@
+.me{
+  text-align: justify;
+  color: blue;
+  font-weight: bold;
+}
+.you{
+  text-align: justify;
+  color: red;
+  font-weight: bolder;
+}
+
+.this{
+  text-align: justify;
+  color:purple;
+  font-style: italic;
+}
